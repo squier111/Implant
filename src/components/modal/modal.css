@@ -1,0 +1,7 @@
+.modal-event {
+  background: #fff;
+  width: 600px!important;
+}
+.modal-event .ant-modal-content {
+  background: #fff;
+}

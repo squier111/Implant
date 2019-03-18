@@ -1,0 +1,6 @@
+.submit-btn {
+  width: 100%;
+}
+.calendar .ant-fullcalendar-header {
+  display: none;
+}
